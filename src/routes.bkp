@@ -1,0 +1,23 @@
+import Home from "./routes/Home.svelte"
+import Accounts from "./routes/Accounts.svelte"
+import Blockchain from "./routes/Blockchain.svelte"
+import NotFound from "./routes/NotFound.svelte"
+
+export default [    
+    {
+        path: "/accounts-demo",
+        component: Accounts
+    },
+    {
+        path: "/blockchain-demo",
+        component: Blockchain
+    },
+    {
+        path: "/",
+        component: Home
+    },
+    {
+        path: "*",
+        component: NotFound
+    }
+]
