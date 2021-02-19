@@ -20,8 +20,8 @@
         <div class="flex-shrink-0">
           <img
             class="h-48 w-full object-cover"
-            src="https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixqx=CXmJZ2VF12&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            alt=""
+            src="https://images.unsplash.com/photo-1516245834210-c4c142787335?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2549&q=80"
+            alt="Bitcoin"
           />
         </div>
         <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -44,8 +44,8 @@
         <div class="flex-shrink-0">
           <img
             class="h-48 w-full object-cover"
-            src="https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixqx=CXmJZ2VF12&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            alt=""
+            src="https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2167&q=80"
+            alt="Blockchain account"
           />
         </div>
         <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -69,8 +69,8 @@
         <div class="flex-shrink-0">
           <img
             class="h-48 w-full object-cover"
-            src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixqx=CXmJZ2VF12&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
-            alt=""
+            src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
+            alt="smart contract"
           />
         </div>
         <div class="flex-1 bg-white p-6 flex flex-col justify-between">
